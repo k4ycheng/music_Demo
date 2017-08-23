@@ -11,8 +11,16 @@
 }
 .box_1 {
 }
+.box_2 {
+}
+.box_3 {
+}
+.ellipse {
+}
 ._图片 {
   color:#000000;
+}
+.placeholder {
 }
 ._一级标题 {
   font-family:'Arial Negreta', 'Arial';
@@ -56,7 +64,11 @@
 ._文本段落 {
   text-align:left;
 }
+.line {
+}
 ._文本框 {
   color:#000000;
   text-align:left;
+}
+.icon {
 }
